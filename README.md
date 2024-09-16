@@ -5,4 +5,4 @@
 ### Exercises
 This repo contains my attempts 2 the exercises fm Guttags Book  
 
-test change mk 2
+test change 14 sep
